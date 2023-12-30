@@ -1,5 +1,5 @@
 # Resume-Ranker
-##Resume parsing and ranking of resumes in accordance to a given job description.
+## Resume parsing and ranking of resumes in accordance to a given job description.
 
 Resume shortlisting is a very tedious task in a hiring process, especially when the number of candidates is high. Each candidate is good at something and comparison of them is a very tuff job.
 Resume Ranker is a project with the motive of easing the resume shortlisting job by selecting the top most resumes from a huge pile of resumes.
